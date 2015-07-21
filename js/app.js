@@ -5,6 +5,7 @@ var excuses = [
     "Shannon won't stop talking about Nachos.",
     "I'm not mad...I'm just disappointed.",
     "The Taco Bell handheld nachos are NOT as good as advertised.",
+    "Yeah my client he's... Getting like that... Asking for more things.",
     ];
 
 function getReasons() {
