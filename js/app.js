@@ -7,13 +7,6 @@ var excuses = [
     "The Taco Bell handheld nachos are NOT as good as advertised.",
     ];
 
-function randomText (randNo) {
-    var excuse = document.getElementById('excuse');
-    excuse.innerHTML = excuses[randNo];
+function getReasons() {
+    document.getElementById("excuse").innerHTML = excuses[Math.floor(Math.random() * excuses.length)];
 }
-
-function randomNumber () {
-    return Math.floor(Math.random() * excuses.length) + 1;
-}
-
-randomText(randomNumber());
