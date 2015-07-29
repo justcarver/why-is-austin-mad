@@ -7,6 +7,8 @@ var excuses = [
     "The Taco Bell handheld nachos are NOT as good as advertised.",
     "Yeah my client he's... Getting like that... Asking for more things.",
     "Slap me! I mean... Uh... Slack me",
+    "Mozilla will always betray you",
+    "My roomate is an idiot",
     ];
 
 function getReasons() {
