@@ -6,9 +6,10 @@ var excuses = [
     "I'm not mad...I'm just disappointed.",
     "The Taco Bell handheld nachos are NOT as good as advertised.",
     "Yeah my client he's... Getting like that... Asking for more things.",
-    "Slap me! I mean... Uh... Slack me",
-    "Mozilla will always betray you",
-    "My roomate is an idiot",
+    "Slap me! I mean... Uh... Slack me.",
+    "Mozilla will always betray you.",
+    "My roomate is an idiot.",
+    "My video was silenced after a copyright claim by Avicii."
     ];
 
 function getReasons() {
